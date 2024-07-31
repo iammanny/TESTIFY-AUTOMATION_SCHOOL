@@ -3,7 +3,7 @@
 
 
 
-// HOW TO SUMIT
+// HOW TO SUBMIT
 
 // NOTE: 
 // Push your code to Github Repository and ensure your Jenkins job run.
