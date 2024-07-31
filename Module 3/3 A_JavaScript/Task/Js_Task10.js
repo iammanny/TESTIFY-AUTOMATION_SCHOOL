@@ -18,4 +18,4 @@ function calculateAreaOfRectangle(length, width) {
     return multiply;
 
 }
-console.log(calculateAreaOfRectangle(4, 10));
+console.log(calculateAreaOfRectangle(2, 10));
