@@ -4,7 +4,7 @@ on: [ pull_request ]
 jobs:
   Test:
     runs-on: ${{ matrix.os }}
-    stratgy:
+    strategy:
     matrix:
       os: [ ubuntu-latest, windows-latest, macos-latest ]
     steps:
