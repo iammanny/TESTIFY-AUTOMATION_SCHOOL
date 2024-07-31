@@ -1,3 +1,5 @@
+
+
 const side1 = 1, side2 = 2, side3 = 2;
 
 const day = 'Thursday'
