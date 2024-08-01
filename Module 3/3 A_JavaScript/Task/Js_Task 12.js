@@ -12,7 +12,7 @@
 // Log bestFriend to the console to ensure you chose the right friend.
 
 
-const friendsArray = ['Victory', 'Allen', 'Ada', 'Ayo', 'Benis']
+const friendsArray = ['Victory', 'Allen', 'Ada', 'Ayo', 'Benis',]
 
 const bestFriend = friendsArray[1]
 
